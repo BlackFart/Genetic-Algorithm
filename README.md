@@ -10,4 +10,4 @@ Useful in complex biological simulations.
 
 ## Cons
 Not fast enough.
-The number of iterations depond on luck.
+The number of iterations deponds on luck.
